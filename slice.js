@@ -159,4 +159,4 @@ function cutIt(arr){
 cutIt(["ab","cde","fgh"])
 cutIt(["abc","defgh","ijklmn"])
 cutIt(["codewars","javascript","java"])
-// cutIt(["codewars","javascript","java", "css"])
+cutIt(["codewars","javascript","java", "css"])
